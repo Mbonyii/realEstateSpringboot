@@ -1,0 +1,8 @@
+{
+  "name": "real-estate-management-system",
+  "private": true,
+  "scripts": {
+    "start": "java -jar target/real-estate-0.0.1-SNAPSHOT.jar",
+    "test": "mvn test"
+  }
+}
